@@ -33,7 +33,7 @@ I'm an engineering student with a passion for AI and machine learning. I've work
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
 
 ---
-Leetcode:(https://img.shields.io/badge/LeetCode-kumarkushagra777-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kumarkushagra777/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kumarkushagra777-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kumarkushagra777/)
 
 
 
