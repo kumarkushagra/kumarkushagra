@@ -2,22 +2,8 @@
 
 
 
-<!--
-**kumarkushagra/kumarkushagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student with a passion for AI, machine learning, and IoT. I've worked on various projects, from developing backend services to experimenting with LLMs.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm an engineering student with a passion for AI, machine learning, and IoT. I've worked on various projects, from developing websites to experimenting with augmented reality. I'm also skilled in graphic design and digital marketing. My journey involves continuous learning and exploring new technologies.  
 
 ### Connect with Me
 
@@ -48,13 +34,7 @@ I'm an engineering student with a passion for AI, machine learning, and IoT. I'v
 
 ---
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumarkushagra&style=for-the-badge&color=orange" alt=""/>
-</div>
 
-<p align="center">
- <img width="1000" src="asset/github-snake.svg" alt="snake"/>
-</p>
 
 ### Connect with Me 
 
