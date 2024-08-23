@@ -2,7 +2,7 @@
 
 
 
-I'm an engineering student with a passion for AI, machine learning, and IoT. I've worked on various projects, from developing backend services to experimenting with LLMs.
+I'm an engineering student with a passion for AI and machine learning. I've worked on various projects, from developing backend tools to experimenting with LLMs.
 
 
 ### Connect with Me
@@ -33,13 +33,7 @@ I'm an engineering student with a passion for AI, machine learning, and IoT. I'v
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
 
 ---
+Leetcode:(https://img.shields.io/badge/LeetCode-kumarkushagra777-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kumarkushagra777/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-kumarkushagra777-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kumarkushagra777/)
 
 
-### Connect with Me 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/kushagra-kumar-599261275/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kushagra%20Kumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:kumarkushagra777@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kumarkushagra777%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
