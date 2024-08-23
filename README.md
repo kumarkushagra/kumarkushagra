@@ -34,6 +34,7 @@ I'm an engineering student with a passion for AI, machine learning, and IoT. I'v
 
 ---
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-kumarkushagra777-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kumarkushagra777/)
 
 
 ### Connect with Me 
