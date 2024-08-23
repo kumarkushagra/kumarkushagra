@@ -4,8 +4,15 @@
 
 I'm an engineering student with a passion for AI and machine learning. I've worked on various projects, from developing backend tools to experimenting with LLMs.
 
+### [My Resume](https://drive.google.com/drive/folders/1xTMrW75IDAoCQ3CWxYsgDpN95Az9OoUc?usp=sharing)
 
-### Connect with Me
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1xTMrW75IDAoCQ3CWxYsgDpN95Az9OoUc?usp=sharing">
+    <img src="https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume" width="250"/>
+  </a>
+</p>
+
+### Contact me via
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushagra-kumar-599261275/)](https://www.linkedin.com/in/kushagra-kumar-599261275/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumarkushagra777@gmail.com)](mailto:kumarkushagra777@gmail.com)
