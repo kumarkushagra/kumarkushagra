@@ -4,13 +4,13 @@
 
 I'm an engineering student with a passion for AI and machine learning. I've worked on various projects, from developing backend tools to experimenting with LLMs.
 
-### [My Resume](https://drive.google.com/drive/folders/1xTMrW75IDAoCQ3CWxYsgDpN95Az9OoUc?usp=sharing)
+### [CLick icon for my_Resume](https://drive.google.com/drive/folders/1xTMrW75IDAoCQ3CWxYsgDpN95Az9OoUc?usp=sharing)
 
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1xTMrW75IDAoCQ3CWxYsgDpN95Az9OoUc?usp=sharing">
-    <img src="https://img.icons8.com/ios/100/google-drive.png" alt="Google Drive" width="100"/>
-  </a>
-</p>
+
+<a href="https://drive.google.com/drive/folders/1xTMrW75IDAoCQ3CWxYsgDpN95Az9OoUc?usp=sharing">
+  <img src="https://img.icons8.com/ios/100/google-drive.png" alt="Google Drive" width="100"/>
+</a>
+
 
 
 ### Contact me via
