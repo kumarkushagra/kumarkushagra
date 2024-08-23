@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20YourName.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
+## Hi there 👋
+
+THIS IS MY REPO
+
 <!--
 **kumarkushagra/kumarkushagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an engineering student with a passion for AI, machine learning, and IoT. I've worked on various projects, from developing websites to experimenting with augmented reality. I'm also skilled in graphic design and digital marketing. My journey involves continuous learning and exploring new technologies.  
 
 ### Connect with Me
 
@@ -33,22 +39,16 @@ Here are some ideas to get you started:
 | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Scrapy_logo.svg" title="Scrapy" alt="Scrapy" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Beautiful_Soup_logo.svg" title="BeautifulSoup" alt="BeautifulSoup" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Gradio_logo.png" title="Gradio" alt="Gradio" width="55" height="55"/> |
 
 ### Tools:
-| MongoDB | Docker | Git | GitHub | Ubuntu | Windows |
-|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+| MongoDB | Docker | Git | GitHub |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="55" height="55"/> |
+
+### OS:
+| Ubuntu | Windows |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
 
 ---
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=kumarkushagra&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
----
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=kumarkushagra&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarkushagra&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=kumarkushagra&style=for-the-badge&color=orange" alt=""/>
