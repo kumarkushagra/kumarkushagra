@@ -7,11 +7,8 @@ I'm an engineering student with a passion for AI and machine learning. I've work
 ---
 ### [My Resume](https://drive.google.com/drive/folders/1xTMrW75IDAoCQ3CWxYsgDpN95Az9OoUc?usp=sharing)
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Google_Drive_icon.png" alt="Google Drive" width="100"/>
-</p>
 
-
+---
 
 ### Contact me via
 
