@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20YourName.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-## Hi there 👋
 
-THIS IS MY REPO
 
 <!--
 **kumarkushagra/kumarkushagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,9 +32,9 @@ I'm an engineering student with a passion for AI, machine learning, and IoT. I'v
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> |
 
 ### Frameworks/Libraries:
-| FastAPI | TensorFlow | PyTorch | Numpy | Pandas | Matplotlib | Scrapy | BeautifulSoup | Gradio |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Scrapy_logo.svg" title="Scrapy" alt="Scrapy" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Beautiful_Soup_logo.svg" title="BeautifulSoup" alt="BeautifulSoup" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Gradio_logo.png" title="Gradio" alt="Gradio" width="55" height="55"/> |
+| FastAPI | TensorFlow | PyTorch | Numpy | Pandas | Matplotlib | BeautifulSoup | Gradio |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Beautiful_Soup_logo.svg" title="BeautifulSoup" alt="BeautifulSoup" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Gradio_logo.png" title="Gradio" alt="Gradio" width="55" height="55"/> |
 
 ### Tools:
 | MongoDB | Docker | Git | GitHub |
