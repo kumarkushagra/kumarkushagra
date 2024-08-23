@@ -4,9 +4,6 @@
 
 I'm an engineering student with a passion for AI and machine learning. I've worked on various projects, from developing backend tools to experimenting with LLMs.
 
----
-### [My Resume](https://drive.google.com/drive/folders/1xTMrW75IDAoCQ3CWxYsgDpN95Az9OoUc?usp=sharing)
-
 
 ---
 
