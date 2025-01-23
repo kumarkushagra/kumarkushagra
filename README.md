@@ -10,6 +10,29 @@ I'm an engineering student with a passion for AI and machine learning. I've work
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushagra-kumar-599261275/)](https://www.linkedin.com/in/kushagra-kumar-599261275/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumarkushagra777@gmail.com)](mailto:kumarkushagra777@gmail.com)
 
+## 🧠 Coding Profile (DSA)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=30)](https://leetcode.com/u/kumarkushagra777/)
+
+
+
+---
+
+## 🔍 Projects
+1) **Deep learning projects**
+This repository includes different types of machine learning models that i have trained.
+[repo](https://github.com/kumarkushagra/Deep_Learning_Projects)
+
+2)  **CampusPing**
+automates NSUT notice tracking, using OCR and LLM summarization to deliver personalized student alerts, currently undergoing optimization
+[repo](https://github.com/kumarkushagra/CampusPing)
+
+>currently working on
+3) **Visitor Management System**
+automates the visitor check-in process at college gates. It captures vehicle images and voice inputs to collect details like number plates, visitor names, and visit purposes, streamlining entry and reducing manual effort.
+[repo](https://github.com/kumarkushagra/Visitor_Management_System)
+
+
 ## Languages and Tools 
 
 ### Languages:
@@ -35,9 +58,6 @@ I'm an engineering student with a passion for AI and machine learning. I've work
 | Ubuntu | Windows |
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
-
----
-[![LeetCode](https://img.shields.io/badge/LeetCode-kumarkushagra777-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kumarkushagra777/)
 
 ---
 
