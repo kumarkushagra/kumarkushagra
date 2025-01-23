@@ -1,7 +1,8 @@
-Hello,
+Hi! I’m Kushagra,👋
 
-I'm an engineering student with a passion for AI and machine learning. I've worked on various projects, from developing backend tools to experimenting with LLMs.
+an engineering student with intrest for machine learning. I've worked on various projects like training ML models from scratch, implementing algorithms like gradient descent from scratch, creating backend tools which are currently in deployment and much more. Currently exploring ESP32 for IoT applications. 
 
+Let’s collaborate! Open to projects, open-source contributions, or anything related
 
 ---
 
