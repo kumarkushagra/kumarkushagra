@@ -20,18 +20,27 @@ Let’s collaborate! Open to projects, open-source contributions, or anything re
 ---
 
 ## 🔍 Projects
-1) **Deep learning projects**
-This repository includes different types of machine learning models that i have trained.
-[repo](https://github.com/kumarkushagra/Deep_Learning_Projects)
 
-2)  **CampusPing**
-automates NSUT notice tracking, using OCR and LLM summarization to deliver personalized student alerts, currently undergoing optimization
-[repo](https://github.com/kumarkushagra/CampusPing)
-
+1) [**Home-Labs**](https://github.com/kumarkushagra/Home-Lab)
 >currently working on
-3) **Visitor Management System**
+   
+Transforms an old laptop into a fully functional home server, accessible over the internet without static IP or router port forwarding, using Cloudflare Tunnels.
+Supports multiple use cases like:- Personal NAS (Storage), Website & API Hosting, Testing Environments, Media Streaming (Self-hosted Spotify), Lightweight CI/CD deployment system,etc
+
+2) [**Deep learning projects**](https://github.com/kumarkushagra/Deep_Learning_Projects)
+
+This repository includes different types of machine learning models that i have trained.
+
+
+3)  [**CampusPing**](https://github.com/kumarkushagra/CampusPing)
+
+automates NSUT notice tracking, using OCR and LLM summarization to deliver personalized student alerts, currently undergoing optimization
+
+
+4) [**Visitor Management System**](https://github.com/kumarkushagra/Visitor_Management_System)
+>currently working on
+
 automates the visitor check-in process at college gates. It captures vehicle images and voice inputs to collect details like number plates, visitor names, and visit purposes, streamlining entry and reducing manual effort.
-[repo](https://github.com/kumarkushagra/Visitor_Management_System)
 
 
 ## Languages and Tools 
