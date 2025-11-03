@@ -13,7 +13,7 @@ Let’s collaborate! Open to projects, open-source contributions, or anything re
 
 ## 🧠 Coding Profile (DSA)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-150%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=30)](https://leetcode.com/u/kumarkushagra777/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=30)](https://leetcode.com/u/kumarkushagra777/)
 
 
 
