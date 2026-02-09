@@ -38,7 +38,6 @@ automates NSUT notice tracking, using OCR and LLM summarization to deliver perso
 
 
 4) [**Visitor Management System**](https://github.com/kumarkushagra/Visitor_Management_System)
->currently working on
 
 automates the visitor check-in process at college gates. It captures vehicle images and voice inputs to collect details like number plates, visitor names, and visit purposes, streamlining entry and reducing manual effort.
 
